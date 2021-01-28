@@ -9,7 +9,7 @@ description: 'Apps that can be used with as a starting point for some MS Learn M
 urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
 ---
 
-# Official Microsoft Sample
+# Official MSFT Sample
 
 Follow the hands-on tutorial to [publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=mslearn_staticwebapp-github-jopapa).
 
